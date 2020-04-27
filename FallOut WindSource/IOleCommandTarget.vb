@@ -1,0 +1,4 @@
+﻿
+Interface IOleCommandTarget
+
+End Interface
