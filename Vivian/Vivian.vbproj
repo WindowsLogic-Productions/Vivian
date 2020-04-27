@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>F:\Dropbox and Copy\Copy\Tim\Desktop\apps\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>6.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{568DF0B9-F337-4805-9F49-F403478E5B8C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SPRINGBOARD.My.MyApplication</StartupObject>
+    <RootNamespace>SPRINGBOARD</RootNamespace>
+    <AssemblyName>Vivian</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Vivian.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Vivian.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Vivian.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>94D3D8F4061A3A1FADE4461043CEDDA98A3AC85F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>FallOut WindSource_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files (x86)\Microsoft.NET\Primary Interop Assemblies\Microsoft.mshtml.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Dialogues\Cookiesyesno.Designer.vb">
+      <DependentUpon>Cookiesyesno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\Cookiesyesno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\DefaultBrowserYesNo.Designer.vb">
+      <DependentUpon>DefaultBrowserYesNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\DefaultBrowserYesNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\FinalMessage.Designer.vb">
+      <DependentUpon>FinalMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\FinalMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\TIFyesno.Designer.vb">
+      <DependentUpon>TIFyesno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\TIFyesno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\WebStudioOpen.Designer.vb">
+      <DependentUpon>WebStudioOpen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\WebStudioOpen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\SaveDatayesno.Designer.vb">
+      <DependentUpon>SaveDatayesno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\SaveDatayesno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\TaskbarFlash.vb" />
+    <Compile Include="System\CertDiag.Designer.vb">
+      <DependentUpon>CertDiag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\CertDiag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\WebStudioWarning.Designer.vb">
+      <DependentUpon>WebStudioWarning.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\WebStudioWarning.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelWebStudio.Designer.vb">
+      <DependentUpon>SettingsPanelWebStudio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelWebStudio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\Browser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\Browser.Designer.vb">
+      <DependentUpon>Browser.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\Dedicate.Designer.vb">
+      <DependentUpon>Dedicate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\Dedicate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\Errordiag.Designer.vb">
+      <DependentUpon>Errordiag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\Errordiag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\Favouritesyesno.Designer.vb">
+      <DependentUpon>Favouritesyesno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\Favouritesyesno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\Historyyesno.Designer.vb">
+      <DependentUpon>Historyyesno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\Historyyesno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\Information.designer.vb">
+      <DependentUpon>Information.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\Information.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\Resetyesno.Designer.vb">
+      <DependentUpon>Resetyesno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\Resetyesno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SettingsPanel.Designer.vb">
+      <DependentUpon>SettingsPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SettingsPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\Favourite.Designer.vb">
+      <DependentUpon>Favourite.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\Favourite.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\HTMLStudio.Designer.vb">
+      <DependentUpon>HTMLStudio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\HTMLStudio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\IOleCommandTarget.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelFavourites.Designer.vb">
+      <DependentUpon>SettingsPanelFavourites.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelFavourites.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelGeneral.Designer.vb">
+      <DependentUpon>SettingsPanelGeneral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelHistory.Designer.vb">
+      <DependentUpon>SettingsPanelHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelPersonalise.Designer.vb">
+      <DependentUpon>SettingsPanelPersonalise.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelPersonalise.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelUpdates.Designer.vb">
+      <DependentUpon>SettingsPanelUpdates.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings\SettingsPanelUpdates.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\UpdaterPrompt.Designer.vb">
+      <DependentUpon>UpdaterPrompt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\UpdaterPrompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\Variables.vb" />
+    <Compile Include="Dialogues\WebStudioNew.Designer.vb">
+      <DependentUpon>WebStudioNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\WebStudioNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\Source.Designer.vb">
+      <DependentUpon>Source.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\Source.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="System\WhatsNew.Designer.vb">
+      <DependentUpon>WhatsNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="System\WhatsNew.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogues\Updater.Designer.vb">
+      <DependentUpon>Updater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogues\Updater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Other\Watermark.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Dialogues\Cookiesyesno.resx">
+      <DependentUpon>Cookiesyesno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\DefaultBrowserYesNo.resx">
+      <DependentUpon>DefaultBrowserYesNo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\FinalMessage.resx">
+      <DependentUpon>FinalMessage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\SaveDatayesno.resx">
+      <DependentUpon>SaveDatayesno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\TIFyesno.resx">
+      <DependentUpon>TIFyesno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\WebStudioOpen.resx">
+      <DependentUpon>WebStudioOpen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\WebStudioWarning.resx">
+      <DependentUpon>WebStudioWarning.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SettingsPanelWebStudio.resx">
+      <DependentUpon>SettingsPanelWebStudio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\Browser.resx">
+      <DependentUpon>Browser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\Dedicate.resx">
+      <DependentUpon>Dedicate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\Errordiag.resx">
+      <DependentUpon>Errordiag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\Favouritesyesno.resx">
+      <DependentUpon>Favouritesyesno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\Historyyesno.resx">
+      <DependentUpon>Historyyesno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\Information.resx">
+      <DependentUpon>Information.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\Resetyesno.resx">
+      <DependentUpon>Resetyesno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SettingsPanel.resx">
+      <DependentUpon>SettingsPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\CertDiag.resx">
+      <DependentUpon>CertDiag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\Favourite.resx">
+      <DependentUpon>Favourite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\HTMLStudio.resx">
+      <DependentUpon>HTMLStudio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SettingsPanelFavourites.resx">
+      <DependentUpon>SettingsPanelFavourites.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SettingsPanelGeneral.resx">
+      <DependentUpon>SettingsPanelGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SettingsPanelHistory.resx">
+      <DependentUpon>SettingsPanelHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SettingsPanelPersonalise.resx">
+      <DependentUpon>SettingsPanelPersonalise.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings\SettingsPanelUpdates.resx">
+      <DependentUpon>SettingsPanelUpdates.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\UpdaterPrompt.resx">
+      <DependentUpon>UpdaterPrompt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\WebStudioNew.resx">
+      <DependentUpon>WebStudioNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\Source.resx">
+      <DependentUpon>Source.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="System\WhatsNew.resx">
+      <DependentUpon>WhatsNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogues\Updater.resx">
+      <DependentUpon>Updater.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Other\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BadGradient.png" />
+    <None Include="Resources\GoodGradient.png" />
+    <None Include="Resources\WarningGradient.png" />
+    <None Include="Resources\Windows Vista Beta Startup.wav" />
+    <None Include="Resources\Windows Vista Beta Exclamation.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="Other\imageres_25.ico">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Internet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DirectionArrowUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DirectionArrowDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Vista Beta Critical Stop.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Donate.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The Microsoft Sound.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Vista Beta IRInter.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Colours.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.ico" />
+    <None Include="Resources\Word Wrap.ico" />
+    <None Include="Resources\Update.ico" />
+    <None Include="Resources\Text Colour.ico" />
+    <None Include="Resources\Unlock.ico" />
+    <None Include="Resources\Changes.ico" />
+    <None Include="Resources\Font.ico" />
+    <None Include="Resources\Music.ico" />
+    <None Include="Resources\Colours.ico" />
+    <None Include="Resources\CSS.ico" />
+    <None Include="Resources\Open.ico" />
+    <None Include="Resources\Save.ico" />
+    <None Include="Resources\New.ico" />
+    <None Include="Resources\Exit.ico" />
+    <None Include="Resources\Undo.ico" />
+    <None Include="Resources\Select All.ico" />
+    <None Include="Resources\Redo.ico" />
+    <None Include="Resources\Paste.ico" />
+    <None Include="Resources\Copy.ico" />
+    <None Include="Resources\Cut.ico" />
+    <None Include="Resources\HTML.ico" />
+    <None Include="Resources\Feedback.ico" />
+    <None Include="Resources\NewWindow.ico" />
+    <None Include="Resources\Web Studio.ico" />
+    <None Include="Resources\Forward.ico" />
+    <None Include="Resources\NewTab.ico" />
+    <None Include="Resources\CloseTab.ico" />
+    <None Include="Resources\Refresh.ico" />
+    <None Include="Resources\Donate.png" />
+    <None Include="Resources\Settings.ico" />
+    <None Include="Resources\Home.ico" />
+    <None Include="Resources\Start-up.ico" />
+    <None Include="Resources\Search.ico" />
+    <None Include="Resources\Stop.ico" />
+    <None Include="Resources\Disallow.ico" />
+    <None Include="Resources\Back.ico" />
+    <None Include="Resources\Pin.ico" />
+    <None Include="Resources\History.ico" />
+    <None Include="Resources\Personalisation.ico" />
+    <None Include="Resources\Warning.ico" />
+    <None Include="Resources\Okay.ico" />
+    <None Include="Resources\Circle Warning.ico" />
+    <None Include="Resources\Information.ico" />
+    <None Include="Resources\Error.ico" />
+    <None Include="Resources\Question.ico" />
+    <None Include="Resources\Vivian %282x%29.png" />
+    <None Include="Resources\Lock.ico" />
+    <None Include="Resources\Vivian.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Plus.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

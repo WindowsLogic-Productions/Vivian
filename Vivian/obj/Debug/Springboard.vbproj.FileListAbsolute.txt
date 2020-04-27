@@ -1,0 +1,145 @@
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WebStudioWarning.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelWebStudio.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.About.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Browser.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Dedicate.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.errordiag.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Favouritesyesno.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Historyyesno.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Information.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Resetyesno.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanel.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.CertDiag.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.HTMLStudio.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Resources.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelFavourites.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelGeneral.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelHistory.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelPersonalise.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelUpdates.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.UpdaterPrompt.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WebStudioNew.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WhatsNew.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Updater.resources
+I:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbproj.GenerateResource.cache
+I:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbproj.CoreCompileInputs.cache
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.DefaultBrowserYesNo.resources
+I:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Favourite.resources
+E:\Springboard\Springboard\bin\Debug\WLP Vivian.exe.config
+E:\Springboard\Springboard\bin\Debug\WLP Vivian.exe
+E:\Springboard\Springboard\bin\Debug\WLP Vivian.pdb
+E:\Springboard\Springboard\bin\Debug\WLP Vivian.xml
+E:\Springboard\Springboard\obj\Debug\Springboard.vbprojAssemblyReference.cache
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.DefaultBrowserYesNo.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.WebStudioWarning.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelWebStudio.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.About.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Browser.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Dedicate.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.errordiag.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Favouritesyesno.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Historyyesno.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Information.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Resetyesno.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanel.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.CertDiag.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Favourite.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.HTMLStudio.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Resources.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelFavourites.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelGeneral.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelHistory.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelPersonalise.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelUpdates.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.UpdaterPrompt.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.WebStudioNew.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.WhatsNew.resources
+E:\Springboard\Springboard\obj\Debug\SPRINGBOARD.Updater.resources
+E:\Springboard\Springboard\obj\Debug\Springboard.vbproj.GenerateResource.cache
+E:\Springboard\Springboard\obj\Debug\Springboard.vbproj.CoreCompileInputs.cache
+E:\Springboard\Springboard\obj\Debug\WLP Vivian.exe
+E:\Springboard\Springboard\obj\Debug\WLP Vivian.xml
+E:\Springboard\Springboard\obj\Debug\WLP Vivian.pdb
+G:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbprojAssemblyReference.cache
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.DefaultBrowserYesNo.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WebStudioWarning.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelWebStudio.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.About.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Browser.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Dedicate.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.errordiag.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Favouritesyesno.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Historyyesno.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Information.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Resetyesno.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanel.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.CertDiag.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Favourite.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.HTMLStudio.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Resources.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelFavourites.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelGeneral.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelHistory.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelPersonalise.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelUpdates.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.UpdaterPrompt.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WebStudioNew.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WhatsNew.resources
+G:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Updater.resources
+G:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbproj.GenerateResource.cache
+G:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbproj.CoreCompileInputs.cache
+G:\Projects\Springboard\Springboard\obj\Debug\WLP Vivian.exe
+G:\Projects\Springboard\Springboard\obj\Debug\WLP Vivian.xml
+G:\Projects\Springboard\Springboard\obj\Debug\WLP Vivian.pdb
+G:\Projects\Springboard\Springboard\bin\Debug\WLP Vivian.exe.config
+G:\Projects\Springboard\Springboard\bin\Debug\WLP Vivian.exe
+G:\Projects\Springboard\Springboard\bin\Debug\WLP Vivian.pdb
+G:\Projects\Springboard\Springboard\bin\Debug\WLP Vivian.xml
+J:\Projects\Springboard\Springboard\bin\Debug\WLP Vivian.exe.config
+J:\Projects\Springboard\Springboard\bin\Debug\WLP Vivian.exe
+J:\Projects\Springboard\Springboard\bin\Debug\WLP Vivian.pdb
+J:\Projects\Springboard\Springboard\bin\Debug\WLP Vivian.xml
+J:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbprojAssemblyReference.cache
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.DefaultBrowserYesNo.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WebStudioWarning.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelWebStudio.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.About.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Browser.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Dedicate.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.errordiag.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Favouritesyesno.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Historyyesno.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Information.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Resetyesno.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanel.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.CertDiag.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Favourite.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.HTMLStudio.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Resources.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelFavourites.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelGeneral.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelHistory.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelPersonalise.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.SettingsPanelUpdates.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.UpdaterPrompt.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WebStudioNew.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.WhatsNew.resources
+J:\Projects\Springboard\Springboard\obj\Debug\SPRINGBOARD.Updater.resources
+J:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbproj.GenerateResource.cache
+J:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbproj.CoreCompileInputs.cache
+J:\Projects\Springboard\Springboard\obj\Debug\WLP Vivian.exe
+J:\Projects\Springboard\Springboard\obj\Debug\WLP Vivian.xml
+J:\Projects\Springboard\Springboard\obj\Debug\WLP Vivian.pdb
+I:\Projects\Springboard\Springboard\bin\Debug\Geckofx-Core.dll
+I:\Projects\Springboard\Springboard\bin\Debug\Geckofx-Winforms.dll
+I:\Projects\Springboard\Springboard\bin\Debug\Geckofx-Core.pdb
+I:\Projects\Springboard\Springboard\bin\Debug\Geckofx-Winforms.pdb
+I:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbproj.CopyComplete
+I:\Projects\Springboard\Springboard\obj\Debug\Springboard.vbprojAssemblyReference.cache
+I:\Projects\Springboard\Springboard\bin\Debug\Vivian.exe.config
+I:\Projects\Springboard\Springboard\bin\Debug\Vivian.exe
+I:\Projects\Springboard\Springboard\bin\Debug\Vivian.pdb
+I:\Projects\Springboard\Springboard\bin\Debug\Vivian.xml
+I:\Projects\Springboard\Springboard\obj\Debug\Vivian.exe
+I:\Projects\Springboard\Springboard\obj\Debug\Vivian.xml
+I:\Projects\Springboard\Springboard\obj\Debug\Vivian.pdb

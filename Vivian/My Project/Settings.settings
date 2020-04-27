@@ -1,0 +1,94 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Bookmarks" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;https://www.duckduckgo.com/&lt;/string&gt;
+  &lt;string&gt;https://www.windowslogic.co.uk/&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Homepage" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://windowslogic.co.uk</Value>
+    </Setting>
+    <Setting Name="Search" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="PrivateBrowsing" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OFF</Value>
+    </Setting>
+    <Setting Name="History" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Blank History Item&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Sounds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ON</Value>
+    </Setting>
+    <Setting Name="CustomColour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">0, 138, 255</Value>
+    </Setting>
+    <Setting Name="CCE" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Startup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Updates" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AdhocHandler" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DHBHUC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CB1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\ceo\Google Drive\Tim\My Pictures\Desktop Wallpaper\Windows 7 Legacy.png</Value>
+    </Setting>
+    <Setting Name="StopButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="HomeButton" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="urlstore" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dupestore" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="urlsave1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;meta http-equiv="refresh" content="0; URL=</Value>
+    </Setting>
+    <Setting Name="urlsave2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"&gt;</Value>
+    </Setting>
+    <Setting Name="searchfor" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="wsstart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="wswordwrap" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="wsfont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Segoe UI, 8.25pt</Value>
+    </Setting>
+    <Setting Name="wsfontcolour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="wsbackcolour" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="sourcefont" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Segoe UI, 8.25pt</Value>
+    </Setting>
+    <Setting Name="sourcewordwrap" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
