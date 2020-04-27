@@ -79,3 +79,21 @@ C:\Users\Tim\Dropbox\Projects\WLP Internet Browser\FallOut WindSource\obj\Debug\
 C:\Users\Tim\Dropbox\Projects\WLP Internet Browser\FallOut WindSource\obj\Debug\WLP_Internet_Browser.UpdateLog.resources
 C:\Users\Tim\Dropbox\Projects\WLP Internet Browser\FallOut WindSource\obj\Debug\WLP_Internet_Browser.Updater.resources
 C:\Users\Tim\Dropbox\Projects\WLP Internet Browser\FallOut WindSource\obj\Debug\FallOut WindSource.vbproj.GenerateResource.Cache
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\FallOut WindSource.vbprojResolveAssemblyReference.cache
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.About.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.Browser.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.Favourites.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.Preferences.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.History.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.Form5.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.Resources.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.UpdateLog.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP_Internet_Browser.Updater.resources
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\FallOut WindSource.vbproj.GenerateResource.Cache
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP Internet Browser.exe
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP Internet Browser.xml
+F:\GitHub\Vivian\FallOut WindSource\obj\Debug\WLP Internet Browser.pdb
+F:\GitHub\Vivian\FallOut WindSource\bin\Debug\WLP Internet Browser.exe.config
+F:\GitHub\Vivian\FallOut WindSource\bin\Debug\WLP Internet Browser.exe
+F:\GitHub\Vivian\FallOut WindSource\bin\Debug\WLP Internet Browser.pdb
+F:\GitHub\Vivian\FallOut WindSource\bin\Debug\WLP Internet Browser.xml

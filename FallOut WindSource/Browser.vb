@@ -148,17 +148,19 @@ Public Class Browser
         CType(TabControl1.SelectedTab.Controls.Item(0), WebBrowser).Navigate(My.Settings.Homepage)
 
         'Automatic updates.
-        Dim request As System.Net.HttpWebRequest = System.Net.HttpWebRequest.Create("https://dl.dropboxusercontent.com/u/93134108/Update%20Repo/WLP%20Browser%20Updates/Browser%20Updates.txt")
-        Dim response As System.Net.HttpWebResponse = request.GetResponse()
-        Dim sr As System.IO.StreamReader = New System.IO.StreamReader(response.GetResponseStream())
-        Dim newestversion As String = sr.ReadToEnd()
-        Dim currentversion As String = Application.ProductVersion
-        If newestversion.Contains(currentversion) Then
-            MsgBox("You have the latest version.", MsgBoxStyle.Information, "WLP Internet Browser (5.0.0.0)")
-        ElseIf MsgBox("There is an update available, would you like to get the update?", MsgBoxStyle.YesNo, "WLP Internet Browser (5.0.0.0)") = MsgBoxResult.Yes Then
-            Updater.ShowDialog()
-        End If
-
+        Try
+            Dim request As System.Net.HttpWebRequest = System.Net.HttpWebRequest.Create("https://dl.dropboxusercontent.com/u/93134108/Update%20Repo/WLP%20Browser%20Updates/Browser%20Updates.txt")
+            Dim response As System.Net.HttpWebResponse = request.GetResponse()
+            Dim sr As System.IO.StreamReader = New System.IO.StreamReader(response.GetResponseStream())
+            Dim newestversion As String = sr.ReadToEnd()
+            Dim currentversion As String = Application.ProductVersion
+            If newestversion.Contains(currentversion) Then
+                MsgBox("You have the latest version.", MsgBoxStyle.Information, "WLP Internet Browser (5.0.0.0)")
+            ElseIf MsgBox("There is an update available, would you like to get the update?", MsgBoxStyle.YesNo, "WLP Internet Browser (5.0.0.0)") = MsgBoxResult.Yes Then
+                Updater.ShowDialog()
+            End If
+        Catch ex As Exception
+        End Try
 
     End Sub
 
