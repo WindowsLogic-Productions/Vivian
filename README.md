@@ -1,5 +1,5 @@
 # About Vivian
-Simple Stopwatch is a light web browser with features you would find on all modern ones.
+Vivian was a light web browser with features you would find on all modern ones.
 
 The goal was to create a functional web browser which was feature-rich and lightweight (uses minimum CPU and RAM possible).
 
