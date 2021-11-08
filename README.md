@@ -3,9 +3,9 @@ Vivian was a light web browser with features you would find on all modern ones.
 
 The goal was to create a functional web browser which was feature-rich and lightweight (uses minimum CPU and RAM possible).
 
-# Download
+# Archive
 
-Download the latest version of Vivian on the [Releases](https://github.com/windowslogic/vivian/releases) page.
+Download the archived versions of Vivian on the [Releases](https://github.com/windowslogic/vivian/releases) page.
 
 # Support & Feedback
 
